@@ -199,6 +199,11 @@ progress::-moz-progress-bar {
     .project-img-med {
         width: 426px;
     }
+  }
+
+  .project-img-small {
+      width: 300px;
+  }
 
     .project-vid-long {
         width: 100vw;
