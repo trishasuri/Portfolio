@@ -377,7 +377,7 @@ progress::-moz-progress-bar {
         left: 161.28px;
     }
 
-    #compass {
+    #bitcoin {
         width: 90.55px;
         top: 134px;
 /*        left: 67%;*/
@@ -389,6 +389,13 @@ progress::-moz-progress-bar {
         top: 369px;
 /*        left: 64.5%;*/
         left: 577.906px;
+    }
+
+    #compass {
+        width: 90.55px;
+        top: 369px;
+/*        left: 64.5%;*/
+        left: 400.906px;
     }
 
     footer{
